@@ -1,4 +1,4 @@
-def saludar():
-    print("¡Hola desde el equipo de Lógica!")
+print("Version de INTERFAZ,¡Hola desde el equipo de Lógica!")
 
-saludar()
+
+
