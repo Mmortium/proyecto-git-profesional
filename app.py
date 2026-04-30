@@ -1,1 +1,1 @@
-print("Soy la versión de MAIN")
+print("Version de INTERFAZ")
